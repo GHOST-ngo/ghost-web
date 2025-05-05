@@ -6,7 +6,7 @@ The Green Hydrogen Open Source Technologies Labs NGO (i.e. GHOST), is an organiz
 
 It is the mission of GHOST to provide scientifically verifiable, open, and documented artifacts in order to achieve very high level of trust, transparency, and repeatable cost baselines for Green Hydrogen Production.
 
-It is the goal of GHOST to develop a digital twin of every electrolyzer on the planet with publicly known specifications.  The analysis and optimization of these digital twins with continuous improvement of the optimum boundary enforces the best technologies are available for digital experimentation through the sharing license.
+It is the goal of GHOST to develop a digital twin of every electrolyzer on the planet with publicly known specifications.  The analysis and optimization of these digital twins with continuous improvement of the optimum boundary ensures that the best technologies are available for digital experimentation through the sharing license.
 
 Depending on the availability of the operating system source code of the electrolyzer,  the GHOST will host open source IOT feeds of the physical electrolyzer operations.
 
