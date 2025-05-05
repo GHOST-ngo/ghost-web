@@ -18,7 +18,7 @@ GHOST will attempt to provide physical Green Hydrogen at cost + delta basis, usi
 
   -  Cleaning ocean oil-spills, plastics, and other pollutants in a scientifically open, least cost least residual method.
   -  Saving people's life at sea, and working towards human habitable energy self-sufficient energy islands for various unwanted refugees.
-  -  Education of students in Hydrogen welding and glass annealing.
+  -  Education of students in Hydrogen welding and glass annealing, world-wide.
   -  Fuel needs of USA armed forces in line of duty.   
 
 ## Location
