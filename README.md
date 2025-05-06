@@ -6,11 +6,11 @@ The Green Hydrogen Open Source Technologies Labs NGO (i.e. GHOST), is an organiz
 
 It is the mission of GHOST to provide scientifically verifiable, open, and documented artifacts in order to achieve very high level of trust, transparency, and repeatable cost baselines for Green Hydrogen Production.
 
-It is the goal of GHOST to develop a digital twin of every electrolyzer on the planet with publicly known specifications.  The analysis and optimization of these digital twins with continuous improvement of the optimum boundary ensures that the best technologies are available for digital experimentation through the sharing license.
+It is the goal of GHOST to develop a digital twin of every electrolyzer and related Hydrogen handling device on the planet with publicly known specifications.  The analysis and optimization of these digital twins with continuous improvement of the optimum boundary ensures that the best technologies are available for digital experimentation through the sharing license.
 
-Depending on the availability of the operating system source code of the electrolyzer,  the GHOST will host open source IOT feeds of the physical electrolyzer operations.
+The GHOST provides an interface to integrate with, or to control generic electrolyzer operations.  Using this ensures that GHOST will host open source IOT feeds of the physical electrolyzer operations.
 
-GHOST will attempt to help any for profit corporation, at a modest consulting cost, as long as they are willing to work with the above scrutiny, in order to achieve the best verifiable optimization path to Green Hydrogen Production.
+GHOST will attempt to help any for profit corporation or government lab under limitations of local law, at a modest consulting cost, as long as they are willing to work with the above scrutiny, in order to achieve the best publicly verifiable optimization path to Green Hydrogen Production.
 
 GHOST will attempt to hire consultants and researchers with expertise in various scientific domains to futher examine and optimize the optimum path to massive Green Hydrogen Production.  
 
