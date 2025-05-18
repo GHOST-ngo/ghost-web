@@ -48,7 +48,10 @@ The GHOST is looking for a suitable place to haunt.
 Appropriate locations should necessarily provide high level of
 digital security, and preferably be open access to all persons
 in order to provide highly secure and highly transparent achievement
-of the previously described mission.
+of the previously described mission.  Since these two requirements are
+in mutual contradiction,  we prefer the first one over the second, 
+at least in the beginning when we do not have funds to rent and 
+upgrade a suitable facility on our own.
 
 The location should budget 2 desk space i.e. 80 - 100 sq ft minimally for
 one engineer working on the software and hardware assembly.
