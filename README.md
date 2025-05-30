@@ -1,10 +1,8 @@
-# GHOST
+# The Ghost Labs Inc
 
-## What is GHOST
+The Ghost Labs Inc (short for Green Hydrogen Open Source Technologies Labs, and referred as GHOST in the remainder of this document) is a Massachussetts USA Not for profit (also proposed to eventually form world-wide NGO subject to availability of funds), is an organization dedicated to open-source sharing, improvement, and documentation of Green Hydrogen Technologies.
 
-The Ghost Labs, i.e. Green Hydrogen Open Source Technologies Labs Inc. is a Massachussetts USA Not for profit (also proposed to be a world-wide eventually subject to availability of funds), is an organization dedicated to open source sharing, improvement, and documentation of Green Hydrogen Technologies.
-
-Correspondingly, and Therefore: All the source code, 3D printable designs, and other artifacts submitted to GHOST shall be made available to the general public under the GNU GPL 3 (https://www.gnu.org/licenses/quick-guide-gplv3.html).
+Correspondingly and Therefore: All the source code, 3D printable designs, and other artifacts submitted to GHOST shall be made available to the general public under the GNU GPL 3 (https://www.gnu.org/licenses/quick-guide-gplv3.html).
 
 In order to make this rewarding for individuals and organizations contributing the digital twins of their Hydrogen producing technology devices, GHOST shall allow for timed public disclosure so that inventors and legal owners of the technologies can have the opportunity to gain appropriate legal protections like patents, copyrights, and trademarks on the said works.
 
