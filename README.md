@@ -38,7 +38,7 @@ GHOST hires consultants and researchers with expertise in various scientific dom
 GHOST will attempt to provide physical Green Hydrogen at best cost + delta basis, using the best documented supply chain configuration corresponding to the digital twins provided by the various suppliers, for the following *acts-of-good* either by itself, or by partnering with another person or organization with appropriate skills in the following areas of interest.   Residual profits from the delta margin and consulting fees shall be applied towards the specific recipients indicated within:
 
   -  Cleaning ocean oil-spills, plastics, and other pollutants in a scientifically open, least cost least residual method.
-  -  Saving people's life at sea, providing safe economical replacement for heating for low-income people who are disproportionately lost in home-heating accidents,  working towards human habitable self-sufficient energy islands for various refugees.
+  -  Saving people's life at sea, providing safe economical replacement for heating for low-income people who are disproportionately lost in home-heating accidents,  working towards human habitable self-sufficient energy islands for various refugees and people desired by nobody.
   -  Education of students in Hydrogen welding and glass annealing, world-wide.
 
 
