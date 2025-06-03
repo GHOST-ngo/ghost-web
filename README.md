@@ -20,7 +20,9 @@ The analysis and optimization of these digital twins with continuous improvement
 
 ### GHOST Software 
 
-The GHOST will also provide an open source repository with interface to integrate with, and/or to control generic electrolyzer operations.  Using this will allow the  GHOST will host open source IOT feeds of the physical electrolyzer operations.
+The GHOST will also provide an open source repository with interface to integrate with, and/or to control generic electrolyzer operations.  Using this will allow the operators of various electrolyzers as well as the general public to have a verifiable view of Green Hydrogen production anywhere on the planet.
+
+GHOST will host open source IOT feeds of the physical electrolyzer operations.
 
 
 
