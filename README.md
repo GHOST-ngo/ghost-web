@@ -68,7 +68,7 @@ could plan for expansion within 2-6 months for this scale-up.
 
 ## About
 
-The GHOST is created with the hope that Green Hydrogen Technologies will improve with collaborative scientific accretion.  With a transparent cost structure, a well defined rational process for planetary scale decarbonization may be followed, as the scale of Hydrogen production grows.
+The GHOST is created with the hope that Green Hydrogen Technologies will improve with collaborative scientific accretion.  With a transparent cost structure, a well defined rational process for planetary scale decarbonization may be followed.
 
 The GHOST is a gift to the nation, to humanity, and is shared with the hope that the values of universal inclusion and treating all human beings with dignity and all life with care and love will be furthered by its users.
 
