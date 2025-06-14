@@ -44,8 +44,15 @@ GHOST will attempt to provide physical Green Hydrogen at best cost + delta basis
 
 ## Location
 
-The GHOST Labs is currently under construction.  Suitable
+The GHOST is looking for a suitable place to haunt. 
+
+The work of GHOST is available online at https://github.com/GHOST-ngo
+
+The website and other artifacts are 
+currently under construction.  Suitable contributors, benefactors and 
 hosts are requested to contact the authors.
+
+
 
 ** Under Construction **
 
