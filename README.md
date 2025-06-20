@@ -48,6 +48,9 @@ The GHOST is looking for a suitable place to haunt.
 
 The work of GHOST is available online at https://github.com/GHOST-ngo
 
+Kindly enrich us all by sharing your insights and knowledge through our discussions page : https://github.com/orgs/GHOST-ngo/discussions
+
+
 The website and other artifacts are 
 currently under construction.  Suitable contributors, benefactors and 
 hosts are requested to contact the authors.
