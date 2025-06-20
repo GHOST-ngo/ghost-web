@@ -55,9 +55,8 @@ The website and other artifacts are
 currently under construction.  Suitable contributors, benefactors and 
 hosts are requested to contact the authors.
 
+![Under Construction](Under-Construction-Anime.jpg "Under construction")
 
-
-** Under Construction **
 
 Appropriate locations should necessarily provide high level of
 digital security, and preferably be open access to all persons
