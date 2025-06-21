@@ -61,18 +61,7 @@ hosts are requested to contact the authors.
 Appropriate locations should necessarily provide high level of
 digital security, and preferably be open access to all persons
 in order to provide highly transparent yet highly secure achievement
-of the previously described mission.  Since these two requirements are
-sometimes
-in mutual contradiction,  we prefer the first one over the second, 
-at least in the beginning when we do not have funds to rent and 
-upgrade a suitable facility on our own.
-
-The location should budget 2 desk space i.e. 80 - 100 sq ft minimally for
-one engineer working on the software and hardware assembly.
-
-There is opportunity to train 2-3 interns in both of the above skills
-and also to broaden the skill base within the team.   Therefore the space
-could plan for expansion within 2-6 months for this scale-up.
+of the previously described mission. 
 
 
 ## About
