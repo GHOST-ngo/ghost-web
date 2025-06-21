@@ -11,7 +11,7 @@ In order for the technology contributors to gain maximum marketing advantage fro
 
 ### Goals of GHOST
 
-It is the **mission** of GHOST to provide *scientifically verifiable*, *open-source* and *documented* digital artifacts with complete scientific chain of citations or patents, in order to achieve very high level of trust, transparency, and repeatable cost baselines for Green Hydrogen Production.
+It is the **mission** of GHOST to provide *scientifically verifiable*, *open-source* and *documented* digital artifacts with complete scientific chain of citations or patents, in order to achieve very high level of trust, transparency, and repeatability in the costs and other relevant KPIs (key performance indicators) for Green Hydrogen Production.
 
 It is the goal of GHOST to eventually develop a digital twin of every electrolyzer and Hydrogen related device on the planet, and to share it under the open source license with publicly documented specifications.
 
