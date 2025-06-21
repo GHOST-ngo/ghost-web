@@ -59,7 +59,7 @@ hosts are requested to contact the authors.
 
 
 Appropriate locations should necessarily provide high level of
-digital security, and preferably be open access to all persons
+digital security, and preferably be open access 
 in order to provide highly transparent yet highly secure achievement
 of the previously described mission. 
 
